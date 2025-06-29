@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="https://resources.firmaperu.gob.pe/app/jws/clienteweb/" >	
+    <information>
+        <title>Plataforma Firma Perú (Componente Web)</title>
+        <vendor>PCM</vendor>
+        <homepage href="https://apps.firmaperu.gob.pe/web/firmador.xhtml" />
+        <description>Módulo web de usuario final para la creación de firma digital</description>
+        <icon href="image/16.png" width="16" height="16" />
+        <icon href="image/32.png" width="32" height="32" />
+        <icon href="image/48.png" width="48" height="48" />		
+        <icon href="image/64.png" width="64" height="64" />                
+        <icon href="image/128.png" width="128" height="128" />
+        <icon href="image/256.png" width="256" height="256" />        
+    </information>
+    <security>
+        <all-permissions/>
+    </security>	
+    <resources>        
+        <j2se version="1.8+" java-vm-args="-Xmx1024m -Xms64m" initial-heap-size="64m" max-heap-size="1024m" />
+        <jar href="firmaperuclienteweb.jar" />    
+        <jar href="firmaperulib-1.1.0.jar" /> 
+    </resources>
+    <application-desc main-class="pe.gob.pcm.sgtd.firmaperu.clienteweb.main.Main" >
+             
+    </application-desc> 	
+</jnlp>
+ 
