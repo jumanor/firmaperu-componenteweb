@@ -1,6 +1,11 @@
 # Instalador Firma Perú - Componente Web
 Una forma sencilla de ejecutar **Firma Perú - Componente Web**
-
+# Características
+- No se utiliza **Microsoft Click Once**.
+- No es necesario instalar extensiones o plugins en Chrome o Firefox.
+- No es necesario tener permisos de administrador.
+- **Firma Perú - Componente Web** se puede configurar para que se ejecute automaticamente al iniciar sesión en S.O Windows.
+- Se crea acceso directo en el Escritorio para ejecutar manualmente.
 # Requisitos
 - Java 8 de Oracle (esta versión tiene javaws).
 # Instalación
@@ -22,12 +27,6 @@ Una forma sencilla de ejecutar **Firma Perú - Componente Web**
 
 # Tutoriales
 - Aqui un [video 01](https://www.youtube.com/watch?v=3krIhVr6NCs) de referencia
-# Características
-- No se utiliza **Microsoft Click Once**.
-- No es necesario instalar extensiones o plugins en Chrome o Firefox.
-- No es necesario tener permisos de administrador.
-- **Firma Perú - Componente Web** se puede configurar para que se ejecute automaticamente al iniciar sesión en S.O Windows.
-- Se crea acceso directo en el Escritorio para ejecutar manualmente.
 
 # Contribución
 
